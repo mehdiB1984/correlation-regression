@@ -1,0 +1,121 @@
+{
+  "tabs": {
+    "dist_cont": "Distributions continues",
+    "dist_disc": "Distributions discrètes",
+    "teo_limit": "Théorèmes limites"
+  },
+  "common": {
+    "grid": " Quadrillage",
+    "limits": " Lignes de probabilité"
+  },
+  "dc": {
+    "dist": {
+      "label": "Distribution",
+      "normal": "Normale",
+      "student": "T-Student",
+      "chi": "Chi-Carré",
+      "snedecor": "F-Snedecor",
+      "gamma": "Gamma",
+      "exponential": "Exponenciale",
+      "beta": "Beta"
+    },
+    "func": {
+      "label": "Fonction",
+      "density": "Densité",
+      "distribution": "Distribution",
+      "typification": "Tipificación"
+    },
+    "normal": "N(0,1)",
+    "chart": {
+      "title1": "Distribution normale",
+      "title2": "Fonction de densité"
+    },
+    "input": {
+      "label": "Introduire...",
+      "quantile": "Quantile",
+      "probability": "Probabilité",
+      "value": "Valeur"
+    },
+    "calculate": {
+      "label": "Calculer...",
+      "queue_left": "Gauche queue",
+      "queue_right": "Droit de queue",
+      "queue_both": "Deux queues"
+    },
+    "result": {
+      "label": "Résultats",
+      "quantile": "Quantile",
+      "probability": "Probabilité",
+      "lower": "E. Inférieur = ",
+      "upper": "E. Supérieur = "
+    },
+    "charts": {
+      "func": {
+        "dist": "F. Distribution",
+        "density": "F. Densité"
+      },
+      "normal": "Distribution normale",
+      "student": "Distribution T-Student",
+      "chi": "Distribution Chi-Carré",
+      "snedecor": "Distribution F de Fisher-Snedecor",
+      "gamma": "Distribution Gamma",
+      "expo": "Distribution Exponenciale",
+      "beta": "Distribution Beta"
+    }
+  },
+  "dd": {
+    "dist": {
+      "label": "Distribution",
+      "hyper": "Hypergéométrique",
+      "binomial": "Binomiale",
+      "poisson": "Poisson",
+      "geo": "Géométrique",
+      "negative": "Binomiale négative"
+    },
+    "func": {
+      "label": "Fonction",
+      "distribution": "Distribution",
+      "probability": "Probabilité"
+    },
+    "result": {
+      "result": "Résultats"
+    },
+    "validate": {
+      "hyper": "Les paramètres d'une distribution hypergéométrique doivent respecter 'n <= a + b'. L'opération n'a pas été effectuée."
+    },
+    "charts": {
+      "func": {
+        "dist": "F. Distribution",
+        "prob": "F. Probabilité"
+      },
+      "hyper": "Distribution Hypergéométrique",
+      "binomial": "Distribution Binomiale",
+      "poisson": "Distribution Poisson",
+      "geometric": "Distribution Géométrique",
+      "negative": "Distribution Binomiale négative"
+    }
+  },
+  "tl": {
+    "aprox": {
+      "label": "Aproximación ",
+      "hb": "Hypergéométrique - Binomiale",
+      "bp": "Binomiale - Poisson",
+      "bn": "Binomiale - Normale",
+      "pn": "Poisson - Normale",
+      "sn": "T-Student - Normale(0,1)",
+      "cn": "ChiCarré - Normale"
+    },
+    "charts": {
+      "func": {
+        "dist": "F. Distribution",
+        "prob_dens": "F. Densité / Probabilité"
+      },
+      "hyper": "Hipergeométrica",
+      "binomial": "Binomiale",
+      "poisson": "Poisson",
+      "normal": "Normale",
+      "student": "T-Student",
+      "chi": "ChiCarré"
+    }
+  }
+}

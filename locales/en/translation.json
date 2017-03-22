@@ -1,0 +1,121 @@
+{
+  "tabs": {
+    "dist_cont": "Continuous distributions",
+    "dist_disc": "Discrete distributions",
+    "teo_limit": "Limit theorems"
+  },
+  "common": {
+    "grid": " Grid",
+    "limits": " Probability lines"
+  },
+  "dc": {
+    "dist": {
+      "label": "Distribution",
+      "normal": "Normal",
+      "student": "Student's T",
+      "chi": "Chi-Square",
+      "snedecor": "F-Snedecor",
+      "gamma": "Gamma",
+      "exponential": "Exponential",
+      "beta": "Beta"
+    },
+    "func": {
+      "label": "Function",
+      "density": "Density function",
+      "distribution": "Distribution function",
+      "typification": "Standarization"
+    },
+    "normal": "N(0,1)",
+    "chart": {
+      "title1": "Normal distribution",
+      "title2": "Density function"
+    },
+    "input": {
+      "label": "Enter...",
+      "quantile": "Quantile",
+      "probability": "Probability",
+      "value": "Value"
+    },
+    "calculate": {
+      "label": "Calculate...",
+      "queue_left": "Left tail",
+      "queue_right": "Right tail",
+      "queue_both": "Both tails"
+    },
+    "result": {
+      "label": "Results",
+      "quantile": "Quantile",
+      "probability": "Probability",
+      "lower": "Lower = ",
+      "upper": "Upper = "
+    },
+    "charts": {
+      "func": {
+        "dist": "Distribution function",
+        "density": "Density function"
+      },
+      "normal": "Normal distribution",
+      "student": "Student's T distribution",
+      "chi": "Chi-Square distribution",
+      "snedecor": "Fisher-Snedecor's F distribution",
+      "gamma": "Gamma distribution",
+      "expo": "Exponential distribution",
+      "beta": "Beta distribution"
+    }
+  },
+  "dd": {
+    "dist": {
+      "label": "Distribution",
+      "hyper": "Hypergeometric",
+      "binomial": "Binomial",
+      "poisson": "Poisson",
+      "geo": "Geometric",
+      "negative": "Negative binomial"
+    },
+    "func": {
+      "label": "Function",
+      "distribution": "Distribution function",
+      "probability": "Probability function"
+    },
+    "result": {
+      "result": "Result"
+    },
+    "validate": {
+      "hyper": "The parameters of a hypergeometric distribution must comply 'n <= a + b'. The operation has not been performed."
+    },
+    "charts": {
+      "func": {
+        "dist": "Distribution function",
+        "prob": "Probability function"
+      },
+      "hyper": "Hypergeometric distribution",
+      "binomial": "Binomial distribution",
+      "poisson": "Poisson distribution",
+      "geometric": "Geometric distribution",
+      "negative": "Negative Binomial distribution"
+    }
+  },
+  "tl": {
+    "aprox": {
+      "label": "Approximation ",
+      "hb": "Hypergeometric - Binomial",
+      "bp": "Binomial - Poisson",
+      "bn": "Binomial - Normal",
+      "pn": "Poisson - Normal",
+      "sn": "Student's T-Normal(0,1)",
+      "cn": "ChiSquare-Normal"
+    },
+    "charts": {
+      "func": {
+        "dist": "Distribution function",
+        "prob_dens": "Density/Probability function"
+      },
+      "hyper": "Hypergeometric",
+      "binomial": "Binomial",
+      "poisson": "Poisson",
+      "normal": "Normal",
+      "student": "Student's T",
+      "chi": "ChiSquare"
+    }
+  }
+}
